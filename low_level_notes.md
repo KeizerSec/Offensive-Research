@@ -19,7 +19,7 @@ Partager quelques réflexions, expériences et rappels personnels sur :
 
 ## 🔹 DLL Injection & Hooking
 
-- Injection de DLL testées dans des moteurs de jeu comme Source Engine (Counter-Strike).
+- Injection de DLL testées dans des moteurs de jeu.
 - Hook de fonctions graphiques ou système (ex: `GetAsyncKeyState`, `ReadProcessMemory`), pour détourner des appels ou insérer du code.
 - Compréhension des points d’injection (IAT, EAT, inline patching).
 
@@ -37,9 +37,3 @@ Je ne prétends pas tout maîtriser, mais je souhaite montrer :
 - ma capacité à comprendre des sujets complexes,
 - ma curiosité profonde,
 - et mon éthique dans la manière de traiter ce savoir.
-
-## ✍️ Conclusion
-
-Ce document n’est pas une preuve de compétence opérationnelle mais un marqueur de potentiel.  
-Si un recruteur lit ceci : vous avez devant vous un autodidacte curieux, capable d’aller loin — s’il est encadré correctement.
-
